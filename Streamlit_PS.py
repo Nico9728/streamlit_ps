@@ -23,7 +23,7 @@ st.sidebar.markdown(f'<a href="https://www.linkedin.com/in/nicolas-marthely-5212
 
 
 if page == pages[0] : 
-  image = r"C:\Users\nicol\Desktop\FORMATION DATA ANALYST\PROJET PARIS SPORTIF\tennis4.JPG"
+  image = r"C:\\Users\\nicol\\Desktop\\FORMATION DATA ANALYST\\PROJET PARIS SPORTIF\\tennis4.JPG"
   st.image(image, width=500)
   st.title("Projet Paris Sportif")
   st.header("Présentation du projet")
