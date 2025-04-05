@@ -688,7 +688,7 @@ if page == pages [4]:
 
 
 if page == pages [5]:
-   image = "tennis2.JPG"
+   image = "tennis2.jpg"
    st.image(image, width=300)
    st.header ("Conclusion")
 
