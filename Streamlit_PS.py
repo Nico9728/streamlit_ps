@@ -688,7 +688,7 @@ if page == pages [4]:
 
 
 if page == pages [5]:
-   image = r"C:\Users\nicol\Desktop\FORMATION DATA ANALYST\PROJET PARIS SPORTIF\tennis2.JPG"
+   image = "tennis2.JPG"
    st.image(image, width=300)
    st.header ("Conclusion")
 
