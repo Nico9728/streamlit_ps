@@ -365,7 +365,7 @@ if page == pages [3]:
 if page == pages [4]:
   
   st.header("Machine learning")
-  st.write("Cette section, présente les résultats obtenus lors de nos mélisations.")
+  st.write("Cette section, présente les résultats obtenus lors de nos modélisations.")
 
   #reprise des éléments section précédente pour modélisation 
   
